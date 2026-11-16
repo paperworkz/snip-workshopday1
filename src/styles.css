@@ -1,0 +1,5 @@
+* { box-sizing: border-box; }
+body { margin: 0; background: #f3f5ed; color: #202b20; font-family: system-ui, -apple-system, "Segoe UI", sans-serif; }
+input, button { font: inherit; }
+:focus-visible { outline: 3px solid #2862c5; outline-offset: 4px; }
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
